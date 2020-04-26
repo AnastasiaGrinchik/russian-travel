@@ -1,0 +1,31 @@
+.places {
+    max-width: 76.875%;
+    margin: 0px auto 92px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+
+@media (min-width: 1024px) and (max-width: 1278px) {
+    .places {
+        max-width: 90.6%;
+        margin: 0px auto 92px;
+    }
+} 
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .places {
+        margin: 0px auto 88px;
+        max-width: 93.75%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 424px){
+    .places {
+        margin: 0px auto 64px;
+        padding: 0px;
+        max-width: 100%;
+    }
+}

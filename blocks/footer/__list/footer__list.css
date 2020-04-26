@@ -1,0 +1,15 @@
+.footer__list {
+    display: flex;
+    padding: none;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width: 320px) and (max-width: 424px){
+    .footer__list{
+        max-width: 58.12%;
+        max-height: 310px;
+        flex-direction: column;
+    }
+}

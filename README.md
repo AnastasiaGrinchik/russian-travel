@@ -5,10 +5,16 @@
 Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
-* [Ссылка на сайт](https://anastasiastreltsova.github.io/russian-travel/index.html)
+* [Ссылка на сайт](https://anastasiastreltsova.github.io/russian-travel/index.html) 
 
-В данном проекте использованы следующие технологии:
-*HTML5
-*flexbox
-*grid
-*БЭМ(Neastead)
+## В данном проекте использованы следующие технологии:
+*HTML5*
+*CSS*
+*flexbox*
+*grid*
+*БЭМ(Nestead)*
+*адаптивная верстка для экранов с разрешением*:
+* 1280px
+* 1024px
+* 768px
+* 320px

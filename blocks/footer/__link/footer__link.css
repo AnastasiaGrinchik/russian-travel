@@ -7,14 +7,7 @@
     margin-right: 18px;
 }
 
-.footer__link:last-of-type {
-    margin-right:none;
-}
-.footer__link:hover {
-    color:#FFDEAD;
-}
-
-@media (min-width: 320px) and (max-width: 424px){
+@media screen and (max-width: 320px){
     .footer__link{
         margin-bottom: 32px;
         font-size: 24px;
@@ -22,7 +15,4 @@
         text-align: left;  
     }
 
-    .footer__link:nth-of-type(4) {
-        margin-bottom: 0px;
-    }
 }

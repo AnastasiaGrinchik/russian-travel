@@ -1,21 +1,14 @@
 .footer__copyright {
     margin: 0px;
     padding: 0px;
-    position: absolute;
     max-width: 186px;
-    max-height: 16px;
-    top: 0px;
-    right: 0px;
     font-size: 14px;
     line-height: 1.4;
     text-align: right;
 }
 
-@media (min-width: 320px) and (max-width: 424px){
+@media screen and (max-width: 320px){
     .footer__copyright {
-        top: 296px;
-        left: 0px;
         text-align: left;
-        margin-bottom: 24px
     }
 }

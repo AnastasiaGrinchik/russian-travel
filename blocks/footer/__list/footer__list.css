@@ -6,7 +6,13 @@
     padding: 0px;
 }
 
-@media screen and (max-width: 465px) {
+@media screen and (max-width: 767px) {
+    .footer__list{
+        width: 20.54%;
+    }
+}
+
+@media screen and (max-width: 500px) {
     .footer__list{
         width: 20.54%;
         flex-direction: column;

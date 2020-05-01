@@ -7,7 +7,33 @@
     text-align: right;
 }
 
-@media screen and (max-width: 320px){
+
+
+@media screen and (max-width: 600px) {
+    .footer__copyright {
+        margin-left: 50px;
+        
+    }
+}
+
+
+@media screen and (max-width: 550px) {
+    .footer__copyright {
+        margin-left: 15px;
+        
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .footer__copyright {
+        align-self: flex-start;
+        text-align: left;
+        
+    }
+}
+
+
+@media screen and (max-width: 320px) {
     .footer__copyright {
         align-self: flex-start;
         text-align: left;

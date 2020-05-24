@@ -6,6 +6,7 @@
 
 .footer {
     width: 92.5%;
+    max-width: 1184px;
     margin:auto;
     margin-bottom: 24px;
     display: flex;

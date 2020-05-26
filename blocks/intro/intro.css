@@ -7,6 +7,7 @@
 
 .intro {
     width: 53.90%;
+    max-width: 690px;
     margin-left: 11.56%;
     margin-top: 92px;
 }
@@ -30,6 +31,5 @@
     .intro {
         margin: 64px auto;
         width: 90%;
-        max-height: 752px;
     }
 }

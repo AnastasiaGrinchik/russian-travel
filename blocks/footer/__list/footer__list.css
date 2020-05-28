@@ -14,7 +14,6 @@
 
 @media screen and (max-width: 500px) {
     .footer__list{
-        width: 20.54%;
         flex-direction: column;        
     }
 }
@@ -22,7 +21,6 @@
 @media screen and (max-width: 320px) {
     .footer__list{
         width: 58.125%;
-        flex-direction: column;
         justify-content: flex-end;
         
     }

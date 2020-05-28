@@ -32,12 +32,3 @@
         
     }
 }
-
-
-@media screen and (max-width: 320px) {
-    .footer__copyright {
-        margin-left: 0px;
-        align-self: flex-start;
-        text-align: left;
-    }
-}

@@ -33,8 +33,5 @@
 @media screen and (max-width: 320px) {
     .footer {
         margin-left: 5%;
-        width: 58.12%;
-        flex-direction: column;
-        justify-content: flex-start;
     }
 }

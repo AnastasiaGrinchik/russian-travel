@@ -6,7 +6,6 @@
 @import url(__paragraph/place__paragraph.css);
 @import url(__image/place__image.css);
 
-
 .place {
     width: 100%;
     display: grid;
@@ -39,7 +38,6 @@
         margin-bottom: 48px;
     }
 }
-
 
 @media screen and (max-width: 320px) {
     .place {

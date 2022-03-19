@@ -6,13 +6,9 @@
 * [Ссылка на сайт](https://anastasiagrinchik.github.io/russian-travel/index.html) 
 
 ## В данном проекте использованы следующие технологии:
-*HTML5*
-*CSS*
-*flexbox*
-*grid*
-*БЭМ(Nestead)*
-*адаптивная верстка для экранов с разрешением*:
-* 1280px
-* 1024px
-* 768px
-* 320px
+- HTML5
+- CSS
+- Flexbox
+- Grid
+- БЭМ(Nestead)
+- Адаптивная верстка для экранов с разрешением: 1280px, 1024px, 768px, 320px
